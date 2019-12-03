@@ -1,5 +1,9 @@
 package sample;
-//Enum for different types of UV. Sport, multi-purpose, or cross.
+
+/**
+ * Enum for different types of UV. Sport, multi-purpose, or cross.
+ */
+
 public enum UvType {
     SUV,
     MUV,
